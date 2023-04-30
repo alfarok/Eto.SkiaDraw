@@ -48,7 +48,7 @@
 
 	<ItemGroup>
 	  <Reference Include="Eto">
-	    <HintPath>..\..\..\..\.nuget\packages\rhinocommon\7.6.21127.19001\lib\net48\Eto.dll</HintPath>
+	    <HintPath>..\..\..\..\.nuget\packages\rhinocommon\7.27.23032.13001\lib\net48\Eto.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
